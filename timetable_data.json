@@ -1,0 +1,6512 @@
+[
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "BUSINESS SCHOOL"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "DATA PROCESSING"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "FURTHER MATHS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "FURTHER MATHS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "PHYSICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "PHYSICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "CHEMISTRY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "CHEMISTRY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "FOOD & NUTRITION"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "FOOD & NUTRITION"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "FURTHER MATHS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "FURTHER MATHS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "LIBRARY TIME"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "ACCOUNTING"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "ACCOUNTING"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "GOVERNMENT"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "GOVERNMENT"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "DATA PROCESSING"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "LITERATURE"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "LITERATURE"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "LIBRARY TIME"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 2",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 2",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "CHEMISTRY/LITERATURE/COMMERCE"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 2",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "CHEMISTRY/LITERATURE/COMMERCE"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 2",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 2",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 2",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 2",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 2",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 2",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "FURTHER MATHS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 2",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "FURTHER MATHS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 2",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 2",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 2",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "FURTHER MATHS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 2",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 3",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 3",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 3",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 3",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 3",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 3",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 3",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CHEMISTRY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 3",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 3",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 3",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 3",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "FURTHER MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 3",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "FURTHER MATHEMATICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 3",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "MONDAY",
+    "Class": "SSS 3",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "DICTION CLINIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "DICTION CLINIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "FRENCH"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "DICTION CLINIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "FRENCH"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "DICTION CLINIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "BASIC TECHNOLOGY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "FRENCH"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "DICTION CLINIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "BASIC TECHNOLOGY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "DICTION CLINIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "BASIC TECHNOLOGY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "FRENCH"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "DICTION CLINIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "FRENCH"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "BASIC TECHNOLOGY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "DICTION CLINIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "FRENCH"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "BASIC TECHNOLOGY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "DICTION CLINIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "DICTION CLINIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "BASIC TECHNOLOGY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "DICTION CLINIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "PHYSICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "PHYSICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "DICTION CLINIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "DATA PROCESSING"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "COMMERCE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "LIBRARY TIME"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "DICTION CLINIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "LITERATURE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "LITERATURE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "FOOD & NUTRITION"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 2",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "DICTION CLINIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 2",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "FOOD & NUTRITION"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 2",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "GOVERNMENT"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 2",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "GOVERNMENT"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 2",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 2",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "PHYSICS/LITRATURE/COMMENCE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 2",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "PHYSICS/LITRATURE/COMMENCE"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 2",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 2",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 2",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 2",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "FOOD & NUTRITION"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 2",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 2",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 2",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 3",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "DICTION CLINIC"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 3",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 3",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 3",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 3",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 3",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "DATA PROCESSING"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 3",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "DATA PROCESSING"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 3",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 3",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "PHYSICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 3",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "PHYSICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 3",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 3",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 3",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "TUESDAY",
+    "Class": "SSS 3",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:45",
+    "Subject": "SPORTS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "BASIC TECHNOLOGY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "FRENCH"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:45",
+    "Subject": "SPORTS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "BASIC TECHNOLOGY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:45",
+    "Subject": "SPORTS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "BASIC TECHNOLOGY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "7:30",
+    "EndTime": "8:45",
+    "Subject": "SPORTS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:45",
+    "Subject": "SPORTS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "FRENCH"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "UNCH BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:45",
+    "Subject": "SPORTS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:45",
+    "Subject": "SPORTS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:45",
+    "Subject": "SPORTS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "MUSIC"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:45",
+    "Subject": "SPORTS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "BASIC TECHNOLOGY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "FRENCH"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:45",
+    "Subject": "SPORTS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "FRENCH"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:45",
+    "Subject": "SPORTS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "FURTHER MATHS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "FURTHER MATHS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "DATA PROCESSING"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "CHEMISTRY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "CHEMISTRY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:45",
+    "Subject": "SPORTS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "FURTHER MATHS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "FURTHER MATHS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "GOVERNMENT"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "GOVERNMENT"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:45",
+    "Subject": "SPORTS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "FOOD & NUTRITION"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 2",
+    "StartTime": "7:30",
+    "EndTime": "8:45",
+    "Subject": "SPORTS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 2",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "DATA PROCESSING"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 2",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 2",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 2",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "ACCOUNTING/PHYSICS/C.R.S"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 2",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "ACCOUNTING/PHYSICS/C.R.S"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 2",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 2",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 2",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 2",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "FURTHER MATHS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 2",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 2",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 2",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 3",
+    "StartTime": "7:30",
+    "EndTime": "8:45",
+    "Subject": "SPORTS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 3",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 3",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 3",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 3",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CHEMISTRY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 3",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CHEMISTRY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 3",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 3",
+    "StartTime": "12:05",
+    "EndTime": "12:45",
+    "Subject": "PHYSICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 3",
+    "StartTime": "12:45",
+    "EndTime": "1:25",
+    "Subject": "PHYSICS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 3",
+    "StartTime": "1:25",
+    "EndTime": "2:05",
+    "Subject": "BIOLOGY"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 3",
+    "StartTime": "2:05",
+    "EndTime": "2:45",
+    "Subject": "FURTHER MATHS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 3",
+    "StartTime": "2:45",
+    "EndTime": "3:15",
+    "Subject": "FURTHER MATHS"
+  },
+  {
+    "Day": "WEDNESDAY",
+    "Class": "SSS 3",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "AROUND THE WORLD ASSEMBLY/SPONTANEOUS SPEAKING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "BUSINESS STUDIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "12:05",
+    "EndTime": "2:05",
+    "Subject": "CODING/BUSINESS SCHOOL"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "2:05",
+    "EndTime": "3:15",
+    "Subject": "CODING/PRACICALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "CODING/STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "AROUND THE WORLD ASSEMBLY/SPONTANEOUS SPEAKING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "12:05",
+    "EndTime": "2:05",
+    "Subject": "CODING/BUSINESS SCHOOL"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "2:05",
+    "EndTime": "3:15",
+    "Subject": "CODING/PRACTICALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "CODING/STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "AROUND THE WORLD ASSEMBLY/SPONTANEOUS SPEAKING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "2:05",
+    "Subject": "CODING/BUSINESS SCHOOL"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "3:15",
+    "Subject": "CODING/PRACTICALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "CODING/STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "AROUND THE WORLD ASSEMBLY/SPONTANEOUS SPEAKING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "SECURITY STUDIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "12:05",
+    "EndTime": "2:05",
+    "Subject": "CODING/BUSINESS SCHOOL"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "2:05",
+    "EndTime": "3:15",
+    "Subject": "CODING/PRACTICALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "CODING/STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "AROUND THE WORLD ASSEMBLY/SPONTANEOUS SPEAKING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "12:05",
+    "EndTime": "2:05",
+    "Subject": "CODING/BUSINESS SCHOOL"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "2:05",
+    "EndTime": "3:15",
+    "Subject": "CODING/PRACTICALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "CODING/STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "AROUND THE WORLD ASSEMBLY/SPONTANEOUS SPEAKING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "12:05",
+    "EndTime": "2:05",
+    "Subject": "CODING/BUSINESS SCHOOL"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "2:05",
+    "EndTime": "3:15",
+    "Subject": "CODING/PRACTICALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "CODING/STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "AROUND THE WORLD ASSEMBLY/SPONTANEOUS SPEAKING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "2:05",
+    "Subject": "CODING/BUSINESS SCHOOL"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "3:15",
+    "Subject": "CODING/PRACICALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "CODING/STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "AROUND THE WORLD ASSEMBLY/SPONTANEOUS SPEAKING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "12:05",
+    "EndTime": "2:05",
+    "Subject": "CODING/BUSINESS SCHOOL"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "2:05",
+    "EndTime": "3:15",
+    "Subject": "CODING/PRACTICALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "CODING/STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "AROUND THE WORLD ASSEMBLY/SPONTANEOUS SPEAKING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "12:05",
+    "EndTime": "2:05",
+    "Subject": "CODING/BUSINESS SCHOOL"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "2:05",
+    "EndTime": "3:15",
+    "Subject": "CODING/PRACTICALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "CODING/STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "AROUND THE WORLD ASSEMBLY/SPONTANEOUS SPEAKING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "BASIC SCIENCE"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "2:05",
+    "Subject": "CODING/BUSINESS SCHOOL"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "3:15",
+    "Subject": "CODING/PRACTICALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "CODING/STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "AROUND THE WORLD ASSEMBLY/SPONTANEOUS SPEAKING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "FOOD & NUTRITION"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "FOOD & NUTRITION"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "12:05",
+    "EndTime": "2:05",
+    "Subject": "CODING/BUSINESS SCHOOL"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "2:05",
+    "EndTime": "3:15",
+    "Subject": "CODING/PRACTICALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "CODING/STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "AROUND THE WORLD ASSEMBLY/SPONTANEOUS SPEAKING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "DATA PROCESSING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "COMMERCE"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "COMMERCE"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "12:05",
+    "EndTime": "2:05",
+    "Subject": "CODING/BUSINESS SCHOOL"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "2:05",
+    "EndTime": "3:15",
+    "Subject": "CODING/PRACTICALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "CODING/STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "AROUND THE WORLD ASSEMBLY/SPONTANEOUS SPEAKING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "DATA PROCESSING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "LIBRARY TIME"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "2:05",
+    "Subject": "CODING/BUSINESS SCHOOL"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "2:05",
+    "EndTime": "3:15",
+    "Subject": "CODING/PRACTICALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "CODING/STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 2",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "AROUND THE WORLD ASSEMBLY/SPONTANEOUS SPEAKING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 2",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "DATA PROCESSING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 2",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 2",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 2",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 2",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 2",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 2",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 2",
+    "StartTime": "12:05",
+    "EndTime": "2:05",
+    "Subject": "CODING/BUSINESS SCHOOL"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 2",
+    "StartTime": "2:05",
+    "EndTime": "3:15",
+    "Subject": "CODING/PRACTICALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 2",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "CODING/STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 3",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "AROUND THE WORLD ASSEMBLY/SPONTANEOUS SPEAKING"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 3",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 3",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 3",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 3",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 3",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 3",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CLUB ACTIVITIES"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 3",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 3",
+    "StartTime": "12:05",
+    "EndTime": "2:05",
+    "Subject": "CODING/BUSINESS SCHOOL"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 3",
+    "StartTime": "2:05",
+    "EndTime": "3:15",
+    "Subject": "CODING/PRACTICALS"
+  },
+  {
+    "Day": "THURSDAY",
+    "Class": "SSS 3",
+    "StartTime": "3:15",
+    "EndTime": "3:45",
+    "Subject": "CODING/STUDY TIME/REMEDIALS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "12:05",
+    "EndTime": "1:25",
+    "Subject": "WEEKLY ASSESSMENT/SPEED TEST"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:00",
+    "Subject": "DISCOVERY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "12:05",
+    "EndTime": "1:25",
+    "Subject": "WEEKLY ASSESSMENT/SPEED TEST"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:00",
+    "Subject": "DISCOVERY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "1:25",
+    "Subject": "WEEKLY ASSESSMENT/SPEED TEST"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:00",
+    "Subject": "DISCOVERY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "ENGLISH STUDIES"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "SECURITY STUDIES"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "C.C.A"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "AGRIC SCIENCE"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "12:05",
+    "EndTime": "1:25",
+    "Subject": "WEEKLY ASSESSMENT/SPEED TEST"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 1 PEAK",
+    "StartTime": "1:25",
+    "EndTime": "2:00",
+    "Subject": "DISCOVERY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "12:05",
+    "EndTime": "1:25",
+    "Subject": "WEEKLY ASSESSMENT/SPEED TEST"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:00",
+    "Subject": "DISCOVERY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "12:05",
+    "EndTime": "1:25",
+    "Subject": "WEEKLY ASSESSMENT/SPEED TEST"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:00",
+    "Subject": "DISCOVERY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "1:25",
+    "Subject": "WEEKLY ASSESSMENT/SPEED TEST"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 2 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:00",
+    "Subject": "DISCOVERY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "HISTORY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "C.R.S"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "SECURITY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "12:05",
+    "EndTime": "1:25",
+    "Subject": "WEEKLY ASSESSMENT/SPEED TEST"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:00",
+    "Subject": "DISCOVERY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "COMPUTER STUDIES"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "YORUBA"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "12:05",
+    "EndTime": "1:25",
+    "Subject": "WEEKLY ASSESSMENT/SPEED TEST"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:00",
+    "Subject": "DISCOVERY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "SOCIAL STUDIES"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "P.H.E"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "HOME ECONOMICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "1:25",
+    "Subject": "WEEKLY ASSESSMENT/SPEED TEST"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "JSS 3 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:00",
+    "Subject": "DISCOVERY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "LIBRARY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "CHEMISTRY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "CHEMISTRY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "12:05",
+    "EndTime": "1:25",
+    "Subject": "WEEKLY ASSESSMENT/SPEED TEST"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 APEX",
+    "StartTime": "1:25",
+    "EndTime": "2:00",
+    "Subject": "DISCOVERY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "GOVERNMENT"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "GOVERNMENT"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "12:05",
+    "EndTime": "1:25",
+    "Subject": "WEEKLY ASSESSMENT/SPEED TEST"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 CREST",
+    "StartTime": "1:25",
+    "EndTime": "2:00",
+    "Subject": "DISCOVERY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "LIBRARY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "GOVERNMENT"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "GOVERNMENT"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "MATHEMATICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "12:05",
+    "EndTime": "1:25",
+    "Subject": "WEEKLY ASSESSMENT/SPEED TEST"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 1 ZENITH",
+    "StartTime": "1:25",
+    "EndTime": "2:00",
+    "Subject": "DISCOVERY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 2",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 2",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "CIVIC EDUCATION"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 2",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 2",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "ECONOMICS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 2",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 2",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "CHEMISTRY/GOVERNMENT"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 2",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "CHEMISTRY/GOVERNMENT"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 2",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 2",
+    "StartTime": "12:05",
+    "EndTime": "1:25",
+    "Subject": "WEEKLY ASSESSMENT/SPEED TEST"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 2",
+    "StartTime": "1:25",
+    "EndTime": "2:00",
+    "Subject": "DISCOVERY TIME"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 3",
+    "StartTime": "7:30",
+    "EndTime": "8:00",
+    "Subject": "ASSEMBLY"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 3",
+    "StartTime": "8:05",
+    "EndTime": "8:45",
+    "Subject": "MATHS"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 3",
+    "StartTime": "8:45",
+    "EndTime": "9:25",
+    "Subject": "FOOD & NUTRITION"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 3",
+    "StartTime": "9:25",
+    "EndTime": "10:05",
+    "Subject": "FOOD & NUTRITION"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 3",
+    "StartTime": "10:05",
+    "EndTime": "10:15",
+    "Subject": "TEA BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 3",
+    "StartTime": "10:15",
+    "EndTime": "10:55",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 3",
+    "StartTime": "10:55",
+    "EndTime": "11:35",
+    "Subject": "ENGLISH"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 3",
+    "StartTime": "11:35",
+    "EndTime": "12:05",
+    "Subject": "LUNCH BREAK"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 3",
+    "StartTime": "12:05",
+    "EndTime": "1:25",
+    "Subject": "WEEKLY ASSESSMENT/SPEED TEST"
+  },
+  {
+    "Day": "FRIDAY",
+    "Class": "SSS 3",
+    "StartTime": "1:25",
+    "EndTime": "2:00",
+    "Subject": "DISCOVERY TIME"
+  }
+]
