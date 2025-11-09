@@ -5,6 +5,7 @@ from datetime import datetime, timedelta
 import time as py_time
 from threading import Thread, Event
 import re
+import pytz
 
 # Try importing plyer (desktop notifications). If not available, we'll ignore notifications.
 try:
@@ -17,6 +18,9 @@ except Exception:
 TIMETABLE_FILE = "timetable_data.json"
 TEACHER_ASSIGNMENTS_FILE = "teacher_assignments.json"
 NOTIFICATION_WINDOW_MINUTES = 5  # Notify X minutes before class starts
+
+# Set Lagos timezone
+LAGOS_TZ = pytz.timezone('Africa/Lagos')
 
 def load_data(file_name):
     """
@@ -64,6 +68,18 @@ if "show_full_schedule" not in st.session_state:
     st.session_state.show_full_schedule = False
 
 # ----------------- Time Conversion Functions -----------------
+def get_current_time():
+    """Get current time in Lagos timezone"""
+    return datetime.now(LAGOS_TZ)
+
+def get_current_time_str():
+    """Get current time string in Lagos timezone (HH:MM format)"""
+    return get_current_time().strftime("%H:%M")
+
+def get_current_day():
+    """Get current day in Lagos timezone"""
+    return get_current_time().strftime("%A").upper()
+
 def convert_to_24hour(time_str):
     """
     Convert 12-hour format time to 24-hour format
@@ -130,9 +146,9 @@ def get_day_from_string(day_str):
     day_str = day_str.upper()
     
     if day_str == "TODAY":
-        return datetime.now().strftime("%A").upper()
+        return get_current_day()
     elif day_str == "TOMORROW":
-        tomorrow = datetime.now() + timedelta(days=1)
+        tomorrow = get_current_time() + timedelta(days=1)
         return tomorrow.strftime("%A").upper()
     else:
         return day_str
@@ -144,7 +160,7 @@ def schedule_checker(teacher_name: str, stop_event: Event):
     Uses `stop_event` to stop politely when requested.
     """
     while not stop_event.is_set():
-        now = datetime.now()
+        now = get_current_time()
         # Only check Monday-Friday
         if now.strftime("%A").upper() not in ("MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"):
             stop_event.wait(600)
@@ -191,7 +207,11 @@ def schedule_checker(teacher_name: str, stop_event: Event):
                 # Convert to 24-hour for proper time comparison
                 start_time_24hr = convert_to_24hour(start_time_str)
                 start_time_obj = datetime.strptime(start_time_24hr, "%H:%M").time()
-                start_dt_today = datetime.combine(now.date(), start_time_obj)
+                
+                # Create datetime object in Lagos timezone for comparison
+                start_dt_today = LAGOS_TZ.localize(
+                    datetime.combine(now.date(), start_time_obj)
+                )
                 reminder_time = start_dt_today - timedelta(minutes=NOTIFICATION_WINDOW_MINUTES)
 
                 if reminder_time <= now < start_dt_today:
@@ -536,9 +556,9 @@ def student_query_interface():
     all_classes = sorted({item.get("Class") for item in TIMETABLE if item.get("Class")})
     day_options = ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"]
 
-    today_name = datetime.now().strftime("%A").upper()
+    today_name = get_current_day()
     default_day_index = day_options.index(today_name) if today_name in day_options else 0
-    current_time_str = datetime.now().strftime("%H:%M")
+    current_time_str = get_current_time_str()
 
     # Query type selection
     query_type = st.radio(
@@ -656,6 +676,10 @@ def teacher_bot_interface():
     st.header("🗓️ Teacher Timetable Bot")
     st.write("Get personalized schedule information and class reminders!")
     
+    # Display current Lagos time
+    current_lagos_time = get_current_time()
+    st.sidebar.info(f"🕒 **Current Lagos Time:** {current_lagos_time.strftime('%I:%M %p')}")
+    
     if not st.session_state.assignments:
         st.warning("No teachers registered yet. Please register in the 'Teacher Setup' tab first.")
         return
@@ -687,12 +711,12 @@ def teacher_bot_interface():
 
     col1, col2 = st.columns(2)
     day_options = ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"]
-    today_name = datetime.now().strftime("%A").upper()
+    today_name = get_current_day()
     default_day_index = day_options.index(today_name) if today_name in day_options else 0
     with col1:
         selected_day = st.selectbox("📆 Select day", options=day_options, index=default_day_index, key="bot_day")
     with col2:
-        current_time_str = datetime.now().strftime("%H:%M")
+        current_time_str = get_current_time_str()
         time_input = st.text_input("⏰ Enter time to check (HH:MM)", value=current_time_str, key="bot_time")
 
     st.markdown("---")
@@ -786,6 +810,7 @@ def main():
     • Correct 12-hour time format
     • Full day schedules
     • Real-time schedule alerts for teachers
+    • Lagos, Africa timezone
     """)
 
     # Show data status in sidebar
